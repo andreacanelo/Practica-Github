@@ -14,7 +14,7 @@ Puedes probar de usar PX o EM para asignar los tamaños a la letra.
 Además, la imagen tiene un color en el fondom también puedes agregarlo en el body */
 body {
 	font-family: monospace;
-	background-color: #f4f4f4;
+	background-color: #fff;
 
 }
 
